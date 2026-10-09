@@ -89,4 +89,6 @@ This repository holds the releases and this page. The addon is developed elsewhe
 
 ---
 
-Overmap Forever is a fan-made addon. It isn't affiliated with or endorsed by Blizzard Entertainment or the WoW Forever team. World of Warcraft is a trademark of Blizzard Entertainment.
+Overmap Forever is by Oridin and released under the [MIT licence](LICENSE).
+
+It's a fan-made addon. It isn't affiliated with or endorsed by Blizzard Entertainment or the WoW Forever team. World of Warcraft is a trademark of Blizzard Entertainment.
